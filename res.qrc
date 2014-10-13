@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>mail-arrow-up-icon.png</file>
+        <file>logo.png</file>
+        <file>Users-Exit-icon.png</file>
+        <file>navbar@2x.png</file>
+        <file>navbar_large@2x.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
